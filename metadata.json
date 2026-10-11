@@ -1,0 +1,6 @@
+{
+  "name": "داشبورد مدیریتی کنترل و تحلیل وصول مطالبات",
+  "description": "سامانه مدیریتی پایش، تحلیل و کنترل وصول مطالبات، رتبه‌بندی پیمانکاران و مأموران قرائت و وضعیت کنتورهای هوشمند",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
